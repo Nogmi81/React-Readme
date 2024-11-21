@@ -22,6 +22,9 @@ O Vercel é uma plataforma fantástica para hospedar aplicações React, oferece
         git add .
         git commit -m "Initial commit"
         ```
+  
+        https://www.youtube.com/watch?v=v5WU_dPv-Ww
+        
         ![image](https://github.com/user-attachments/assets/62fbf9da-0f7f-4a82-aaeb-759f2da5af6d)
 
 
