@@ -21,7 +21,7 @@ O Vercel é uma plataforma fantástica para hospedar aplicações React, oferece
         git init
         git add .
         git commit -a -m "Initial commit"
-        git branck -M main (deu erro)
+        git branch -M main
         git remote add origin [url-link] https://github.com/Nogmi81/projetosReact.git
         git push -u origin main
         
